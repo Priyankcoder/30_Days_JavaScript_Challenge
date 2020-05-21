@@ -13,4 +13,9 @@ The modern mode, "use strict",
 Variables and
 Data types)
 * Build a [*Destiny_Decider_Dices*](https://github.com/Priyankcoder/30_Days_JavaScript_Challenge/tree/master/D2-Destiny_Decider_Dices) game. This game has two dices which show numbers on refreshing the page and player corresponding to the dice with greater number wins and it displays the winner. You can use it to resolve the conflicts 😄 and to play monopoly. There are endless use-cases of it .
-* I didn't learn any new algorithm from few days. So, I learned and practice Knuth–Morris–Pratt string-searching algorithm today and It's amazing 🤩.
+* I didn't learn any new algorithm from few days. So, I learned and practice [Knuth–Morris–Pratt string-searching algorithm](https://github.com/Priyankcoder/Non_Linear_Data_Structures/blob/master/Python_Implementation/Binary_Tree/Knuth_Morris_Pratt.md) today and It's amazing 🤩.
+
+## Day 3:
+* Revised array and its methods, some of them are forEach(can be used as labeling event-listener to each element of a array, no for loop required. I like these kind of subtle tricks a lot 😋 ), filter, map, sort, find and findIndex.
+* Practiced array exercise which helped me to gain insight on where and how to use these function in real scenario .
+* Read a blog on semantic HTML.
