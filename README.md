@@ -4,7 +4,7 @@
 
 ## Day 1:
 * Completed the first section of ES6 tutorial from this [website](https://javascript.info/). It has detailed tutorials and the author tells explicity about the do's and dont's from his own experience.So, I will follow these tutorials throughout this challenge.
-* I build a [*Virtual_Drum_Kit*](https://github.com/Priyankcoder/30_Days_JavaScript_Challenge/tree/master/D1-Virtual_Drum_Kit) with the help of [Wes Bos tutorial](https://javascript30.com/)  and It gave me clarity of how eventlisteners work and I will do one js project daily by refering his
+* I build a [*Virtual_Drum_Kit*](https://github.com/Priyankcoder/30_Days_JavaScript_Challenge/tree/master/D1-Virtual_Drum_Kit) with the help of [Wes Bos tutorial](https://javascript30.com/)  and It gave me clarity of how eventlisteners work.So, I will do some js project by refering his
 [tutorials](https://javascript30.com/) .
 
 ## Day 2:
@@ -19,3 +19,8 @@ Data types)
 * Revised array and its methods, some of them are forEach(can be used as labeling event-listener to each element of a array, no for loop required. I like these kind of subtle tricks a lot 😋 ), filter, map, sort, find and findIndex.
 * Practiced array exercise which helped me to gain insight on where and how to use these function in real scenario .
 * Read a blog on semantic HTML.
+
+## Day 4: 
+* Read tutorials of JS on Interaction(alert, prompt and confirm), Type Conversions,
+Basic operators, maths and Comparisons .
+* Read a tutorial on flexbox in css and it will surely make my life easier 😸. 
