@@ -24,3 +24,7 @@ Data types)
 * Read tutorials of JS on Interaction(alert, prompt and confirm), Type Conversions,
 Basic operators, maths and Comparisons .
 * Read a tutorial on flexbox in css and it will surely make my life easier 😸. 
+
+## Day 5: 
+* Read tutorials of JS as usual and learned some new concept.
+* Learned a new string algorithm to find longest palindrome in string aka [Manachar's Algorithm]([Knuth–Morris–Pratt string-searching algorithm](https://github.com/Priyankcoder/Non_Linear_Data_Structures/blob/master/CPP_Implementation/Manachar's_Algorithm.md).
