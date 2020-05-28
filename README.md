@@ -30,7 +30,14 @@ Basic operators, maths and Comparisons .
 * Learned a new string algorithm to find longest palindrome in string aka [Manachar's Algorithm]([Knuth–Morris–Pratt string-searching algorithm](https://github.com/Priyankcoder/Non_Linear_Data_Structures/blob/master/CPP_Implementation/Manachar's_Algorithm.md).
 
 ## Day 6:
-* Learnt about new array methods(some, every, concat etc) and implemented them on various [practical scenario](https://github.com/Priyankcoder/30_Days_JavaScript_Challenge/tree/master/D6-Array_cardio2).
+* Learnt about new array methods(some, every, concat etc) and implemented them on various [practical scenario](https://github.com/Priyankcoder/30_Days_JavaScript_Challenge/blob/master/D6-Array_Cardio2/index.html).
 
 ## Day 7: 
 * Learnt about fetch api and used it to fetch city name and state data from a json file on github then I used that data to made a type ahead city and state name recommendation system in js. I am amazed by the simplicity and power of js after doing this project ✨. 
+
+## Day 8:
+* Made a Book-Page of **Eloquent Javascript** book.<br>
+![](/D8-Book_Page/result.png)
+
+
+
