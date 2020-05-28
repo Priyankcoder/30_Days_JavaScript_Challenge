@@ -37,7 +37,8 @@ Basic operators, maths and Comparisons .
 
 ## Day 8:
 * Made a Book-Page of **Eloquent Javascript** book.<br>
-![](/D8-Book_Page/final.jpg)
+![](/D8-Book_Page/final.png)
+
 
 
 
