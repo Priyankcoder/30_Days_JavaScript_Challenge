@@ -4,10 +4,73 @@
     box-sizing: border-box;
     
 }
+/* Mobile Styles */
+@media only screen and (max-width: 400px){
+    .product,.page,.footer{
+        
+        flex-wrap: wrap;
+    }
+    .heading{
+    
+        font-size: 20px;
+    }
+    .product-des{
+        font-size: 15px;
+    }
+    .nav,.footer{
+        font-size: 11px;
+    }
+    .product-img{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    
+}
+
+/* Tablet */
+@media only screen and (min-width: 401px) and (max-width: 960px){
+
+    .heading{
+        font-size: 30px;
+    }
+    .product-des{
+        font-size: 20px;
+    }
+    /* .product{
+        justify-content: center;
+    } */
+    .product-img{
+        justify-self: center;
+        margin-right: 50px;
+       
+    }
+
+}
+
+/* Desktop */
+@media only screen and (min-width: 961px){
+    .heading{
+        font-size: 40px;
+    }
+    .product-des{
+        font-size: 25px;
+    }
+    .product-img{
+        margin-left: 50px;
+        margin-right: 100px;
+    }
+
+
+}
+
 .space-between-nav-footer{
     /* background-color: #d6f063a9; */
     background-color: rgb(24, 22, 22);
 }
+
+
+
 
 /* page */
 
@@ -16,6 +79,7 @@
     width: 90%;
     margin: 0 auto;
     flex-direction: column;
+    flex-wrap: wrap;
     
 
 }
@@ -33,6 +97,7 @@
     background-color:rgb(1, 25, 38);
     /* font-family: 'Lobster', cursive; */
     /* font-family: 'Fredoka One', cursive; */
+    /* font-size: 2vw; */
 }
 .nav > div{
     margin-right: 30px;
@@ -50,7 +115,6 @@
     /* background-color: rgb(34, 245, 217); */
     font-family: 'Lobster', cursive;
     font-weight: 300;
-    font-size: 40px;
     color: rgb(243, 220, 89);
 }
 
@@ -58,30 +122,41 @@
 .product{
     display: flex;
     margin-bottom: 5px;
+    /* flex-wrap: wrap; */
 }
 
+img{
+    width: 100%;
+}
+
+
 .product-img{
-    /* width: 45%; */
+    display: flex;
+    width: 45%;
     /* height: 200px; */
-    margin-left: 50px;
-    margin-right: 100px;
     /* background-color: rgb(195, 11, 241); */
+    
     border: 1px black solid;
     border-radius: 10px;
     overflow: hidden;
+    /* margin-left: 50px;
+    margin-right: 100px; */
+    
+
 
 }
+
+
 .product-des{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     /* text-align: center; */
-    height: 300px;
+    height: 300px;margin: 0 auto;
     width: 60%;
     /* align-items: center; */
     /* background-color: rgb(117, 144, 218); */
     /* border: 3px black solid; */
-    font-size: 25px;
     font-weight: 300;
     font-family: 'ABeeZee', sans-serif;
     color: rgb(221, 203, 203);

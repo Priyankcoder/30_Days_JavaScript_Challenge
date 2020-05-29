@@ -39,6 +39,10 @@ Basic operators, maths and Comparisons .
 * Made a Book-Page of **Eloquent Javascript** book.<br>
 ![](/D8-Book_Page/final.png)
 
+## Day 9:
+* Made Book-page responsive.
+* Learnt about setTimeout and setInterval function in js.
+
 
 
 
